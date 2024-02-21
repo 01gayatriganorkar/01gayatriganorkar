@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayatri Ganorkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+//<h3 align="center">A passionate frontend developer from India</h3>
 <h4>About</h4>
 <p>
 I am frontend web developer doing all things creative to make the web a more unique and awesome place.
